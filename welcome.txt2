@@ -1,0 +1,11 @@
+ ls 
+ git clone (copy paste)
+ ls
+ cd (file name)
+ ls
+ vi/touch (create file)
+ cat (file name)
+ ls -a
+ sit add (file name)
+ git commit -m "name"
+ git push
